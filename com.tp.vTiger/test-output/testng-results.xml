@@ -1,0 +1,551 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="12" passed="12" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Browser got launched]]>
+    </line>
+    <line>
+      <![CDATA[Browser got Maximized]]>
+    </line>
+    <line>
+      <![CDATA[Logged In Successfully]]>
+    </line>
+    <line>
+      <![CDATA[[ VEN2 ] Microsoft514 - Vendor Information verified]]>
+    </line>
+    <line>
+      <![CDATA[Logged out Successfully]]>
+    </line>
+    <line>
+      <![CDATA[Browser got Closed Successfully]]>
+    </line>
+    <line>
+      <![CDATA[Browser got launched]]>
+    </line>
+    <line>
+      <![CDATA[Browser got Maximized]]>
+    </line>
+    <line>
+      <![CDATA[Logged In Successfully]]>
+    </line>
+    <line>
+      <![CDATA[Logged out Successfully]]>
+    </line>
+    <line>
+      <![CDATA[Logged In Successfully]]>
+    </line>
+    <line>
+      <![CDATA[Logged out Successfully]]>
+    </line>
+    <line>
+      <![CDATA[Logged In Successfully]]>
+    </line>
+    <line>
+      <![CDATA[Logged out Successfully]]>
+    </line>
+    <line>
+      <![CDATA[Browser got Closed Successfully]]>
+    </line>
+    <line>
+      <![CDATA[Browser got launched]]>
+    </line>
+    <line>
+      <![CDATA[Browser got Maximized]]>
+    </line>
+    <line>
+      <![CDATA[Logged In Successfully]]>
+    </line>
+    <line>
+      <![CDATA[Logged out Successfully]]>
+    </line>
+    <line>
+      <![CDATA[Logged In Successfully]]>
+    </line>
+    <line>
+      <![CDATA[createProductWithSupportDateTest]]>
+    </line>
+    <line>
+      <![CDATA[Logged out Successfully]]>
+    </line>
+    <line>
+      <![CDATA[Logged In Successfully]]>
+    </line>
+    <line>
+      <![CDATA[Logged out Successfully]]>
+    </line>
+    <line>
+      <![CDATA[Browser got Closed Successfully]]>
+    </line>
+    <line>
+      <![CDATA[Browser got launched]]>
+    </line>
+    <line>
+      <![CDATA[Browser got Maximized]]>
+    </line>
+    <line>
+      <![CDATA[Logged In Successfully]]>
+    </line>
+    <line>
+      <![CDATA[[ CON3 ] gows_313 - Contact Information verified]]>
+    </line>
+    <line>
+      <![CDATA[  gows_313 verified]]>
+    </line>
+    <line>
+      <![CDATA[Logged out Successfully]]>
+    </line>
+    <line>
+      <![CDATA[Logged In Successfully]]>
+    </line>
+    <line>
+      <![CDATA[[ CON4 ] gows_905 - Contact Information verified]]>
+    </line>
+    <line>
+      <![CDATA[  gows_905 verified]]>
+    </line>
+    <line>
+      <![CDATA[ Tek_Pyramid_195 verified]]>
+    </line>
+    <line>
+      <![CDATA[Logged out Successfully]]>
+    </line>
+    <line>
+      <![CDATA[Logged In Successfully]]>
+    </line>
+    <line>
+      <![CDATA[[ CON5 ] gows_740 - Contact Information verified]]>
+    </line>
+    <line>
+      <![CDATA[  gows_740 verified]]>
+    </line>
+    <line>
+      <![CDATA[2025-04-28 verified]]>
+    </line>
+    <line>
+      <![CDATA[2025-06-27 verified]]>
+    </line>
+    <line>
+      <![CDATA[Logged out Successfully]]>
+    </line>
+    <line>
+      <![CDATA[Browser got Closed Successfully]]>
+    </line>
+    <line>
+      <![CDATA[Browser got launched]]>
+    </line>
+    <line>
+      <![CDATA[Browser got Maximized]]>
+    </line>
+    <line>
+      <![CDATA[Logged In Successfully]]>
+    </line>
+    <line>
+      <![CDATA[[ LEA2 ] lead641 - Lead Information verified]]>
+    </line>
+    <line>
+      <![CDATA[Logged out Successfully]]>
+    </line>
+    <line>
+      <![CDATA[Logged In Successfully]]>
+    </line>
+    <line>
+      <![CDATA[Logged out Successfully]]>
+    </line>
+    <line>
+      <![CDATA[Browser got Closed Successfully]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2025-04-28T13:19:42 IST" name="Suite" finished-at="2025-04-28T13:22:08 IST" duration-ms="146069">
+    <groups>
+      <group name="smokeTest">
+        <method signature="ContactTest.createContactTest()[pri:0, instance:com.tp.vTigerTest.ContactTest@4c178a76]" name="createContactTest" class="com.tp.vTigerTest.ContactTest"/>
+        <method signature="OrganizationTest.createOrganizationTest()[pri:0, instance:com.tp.vTigerTest.OrganizationTest@2362f559]" name="createOrganizationTest" class="com.tp.vTigerTest.OrganizationTest"/>
+        <method signature="ProductTest.createProductTest()[pri:0, instance:com.tp.vTigerTest.ProductTest@b2c9a9c]" name="createProductTest" class="com.tp.vTigerTest.ProductTest"/>
+      </group> <!-- smokeTest -->
+    </groups>
+    <test started-at="2025-04-28T13:19:42 IST" name="Test" finished-at="2025-04-28T13:22:08 IST" duration-ms="146069">
+      <class name="com.tp.vTigerTest.ProductTest">
+        <test-method is-config="true" signature="toLaunch(java.lang.String)[pri:0, instance:com.tp.vTigerTest.ProductTest@b2c9a9c]" started-at="2025-04-28T13:20:46 IST" name="toLaunch" finished-at="2025-04-28T13:20:47 IST" duration-ms="858" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[edge]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Browser got launched]]>
+            </line>
+            <line>
+              <![CDATA[Browser got Maximized]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- toLaunch -->
+        <test-method is-config="true" signature="toLogin()[pri:0, instance:com.tp.vTigerTest.ProductTest@b2c9a9c]" started-at="2025-04-28T13:20:47 IST" name="toLogin" finished-at="2025-04-28T13:20:49 IST" duration-ms="1971" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Logged In Successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- toLogin -->
+        <test-method signature="createProductTest()[pri:0, instance:com.tp.vTigerTest.ProductTest@b2c9a9c]" started-at="2025-04-28T13:20:49 IST" name="createProductTest" finished-at="2025-04-28T13:20:57 IST" duration-ms="7713" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createProductTest -->
+        <test-method is-config="true" signature="toLogout()[pri:0, instance:com.tp.vTigerTest.ProductTest@b2c9a9c]" started-at="2025-04-28T13:20:57 IST" name="toLogout" finished-at="2025-04-28T13:20:57 IST" duration-ms="787" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Logged out Successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- toLogout -->
+        <test-method is-config="true" signature="toLogin()[pri:0, instance:com.tp.vTigerTest.ProductTest@b2c9a9c]" started-at="2025-04-28T13:20:57 IST" name="toLogin" finished-at="2025-04-28T13:20:59 IST" duration-ms="1494" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Logged In Successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- toLogin -->
+        <test-method signature="createProductWithSupportDateTest()[pri:0, instance:com.tp.vTigerTest.ProductTest@b2c9a9c]" started-at="2025-04-28T13:20:59 IST" name="createProductWithSupportDateTest" finished-at="2025-04-28T13:21:06 IST" duration-ms="7283" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[createProductWithSupportDateTest]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- createProductWithSupportDateTest -->
+        <test-method is-config="true" signature="toLogout()[pri:0, instance:com.tp.vTigerTest.ProductTest@b2c9a9c]" started-at="2025-04-28T13:21:06 IST" name="toLogout" finished-at="2025-04-28T13:21:07 IST" duration-ms="780" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Logged out Successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- toLogout -->
+        <test-method is-config="true" signature="toLogin()[pri:0, instance:com.tp.vTigerTest.ProductTest@b2c9a9c]" started-at="2025-04-28T13:21:07 IST" name="toLogin" finished-at="2025-04-28T13:21:07 IST" duration-ms="353" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Logged In Successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- toLogin -->
+        <test-method signature="createProductWithVendorTest()[pri:0, instance:com.tp.vTigerTest.ProductTest@b2c9a9c]" started-at="2025-04-28T13:21:07 IST" name="createProductWithVendorTest" finished-at="2025-04-28T13:21:19 IST" duration-ms="11945" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createProductWithVendorTest -->
+        <test-method is-config="true" signature="toLogout()[pri:0, instance:com.tp.vTigerTest.ProductTest@b2c9a9c]" started-at="2025-04-28T13:21:19 IST" name="toLogout" finished-at="2025-04-28T13:21:20 IST" duration-ms="801" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Logged out Successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- toLogout -->
+        <test-method is-config="true" signature="toClose()[pri:0, instance:com.tp.vTigerTest.ProductTest@b2c9a9c]" started-at="2025-04-28T13:21:20 IST" name="toClose" finished-at="2025-04-28T13:21:21 IST" duration-ms="1221" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Browser got Closed Successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- toClose -->
+      </class> <!-- com.tp.vTigerTest.ProductTest -->
+      <class name="com.tp.vTigerTest.OrganizationTest">
+        <test-method is-config="true" signature="toLaunch(java.lang.String)[pri:0, instance:com.tp.vTigerTest.OrganizationTest@2362f559]" started-at="2025-04-28T13:20:21 IST" name="toLaunch" finished-at="2025-04-28T13:20:22 IST" duration-ms="951" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[edge]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Browser got launched]]>
+            </line>
+            <line>
+              <![CDATA[Browser got Maximized]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- toLaunch -->
+        <test-method is-config="true" signature="toLogin()[pri:0, instance:com.tp.vTigerTest.OrganizationTest@2362f559]" started-at="2025-04-28T13:20:22 IST" name="toLogin" finished-at="2025-04-28T13:20:24 IST" duration-ms="1823" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Logged In Successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- toLogin -->
+        <test-method signature="createOrganizationTest()[pri:0, instance:com.tp.vTigerTest.OrganizationTest@2362f559]" started-at="2025-04-28T13:20:24 IST" name="createOrganizationTest" finished-at="2025-04-28T13:20:27 IST" duration-ms="3581" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createOrganizationTest -->
+        <test-method is-config="true" signature="toLogout()[pri:0, instance:com.tp.vTigerTest.OrganizationTest@2362f559]" started-at="2025-04-28T13:20:27 IST" name="toLogout" finished-at="2025-04-28T13:20:31 IST" duration-ms="4243" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Logged out Successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- toLogout -->
+        <test-method is-config="true" signature="toLogin()[pri:0, instance:com.tp.vTigerTest.OrganizationTest@2362f559]" started-at="2025-04-28T13:20:31 IST" name="toLogin" finished-at="2025-04-28T13:20:33 IST" duration-ms="1326" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Logged In Successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- toLogin -->
+        <test-method signature="createOrganizationWithIndustryAndTypeTest()[pri:0, instance:com.tp.vTigerTest.OrganizationTest@2362f559]" started-at="2025-04-28T13:20:33 IST" name="createOrganizationWithIndustryAndTypeTest" finished-at="2025-04-28T13:20:37 IST" duration-ms="4682" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createOrganizationWithIndustryAndTypeTest -->
+        <test-method is-config="true" signature="toLogout()[pri:0, instance:com.tp.vTigerTest.OrganizationTest@2362f559]" started-at="2025-04-28T13:20:37 IST" name="toLogout" finished-at="2025-04-28T13:20:38 IST" duration-ms="703" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Logged out Successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- toLogout -->
+        <test-method is-config="true" signature="toLogin()[pri:0, instance:com.tp.vTigerTest.OrganizationTest@2362f559]" started-at="2025-04-28T13:20:38 IST" name="toLogin" finished-at="2025-04-28T13:20:40 IST" duration-ms="1334" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Logged In Successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- toLogin -->
+        <test-method signature="createOrganizationWithPhoneNumberTest()[pri:0, instance:com.tp.vTigerTest.OrganizationTest@2362f559]" started-at="2025-04-28T13:20:40 IST" name="createOrganizationWithPhoneNumberTest" finished-at="2025-04-28T13:20:44 IST" duration-ms="4594" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createOrganizationWithPhoneNumberTest -->
+        <test-method is-config="true" signature="toLogout()[pri:0, instance:com.tp.vTigerTest.OrganizationTest@2362f559]" started-at="2025-04-28T13:20:44 IST" name="toLogout" finished-at="2025-04-28T13:20:45 IST" duration-ms="722" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Logged out Successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- toLogout -->
+        <test-method is-config="true" signature="toClose()[pri:0, instance:com.tp.vTigerTest.OrganizationTest@2362f559]" started-at="2025-04-28T13:20:45 IST" name="toClose" finished-at="2025-04-28T13:20:46 IST" duration-ms="1209" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Browser got Closed Successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- toClose -->
+      </class> <!-- com.tp.vTigerTest.OrganizationTest -->
+      <class name="com.tp.vTigerTest.ContactTest">
+        <test-method is-config="true" signature="toLaunch(java.lang.String)[pri:0, instance:com.tp.vTigerTest.ContactTest@4c178a76]" started-at="2025-04-28T13:21:21 IST" name="toLaunch" finished-at="2025-04-28T13:21:22 IST" duration-ms="886" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[edge]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Browser got launched]]>
+            </line>
+            <line>
+              <![CDATA[Browser got Maximized]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- toLaunch -->
+        <test-method is-config="true" signature="toLogin()[pri:0, instance:com.tp.vTigerTest.ContactTest@4c178a76]" started-at="2025-04-28T13:21:22 IST" name="toLogin" finished-at="2025-04-28T13:21:24 IST" duration-ms="1860" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Logged In Successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- toLogin -->
+        <test-method signature="createContactTest()[pri:0, instance:com.tp.vTigerTest.ContactTest@4c178a76]" started-at="2025-04-28T13:21:24 IST" name="createContactTest" finished-at="2025-04-28T13:21:31 IST" duration-ms="6915" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[[ CON3 ] gows_313 - Contact Information verified]]>
+            </line>
+            <line>
+              <![CDATA[  gows_313 verified]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- createContactTest -->
+        <test-method is-config="true" signature="toLogout()[pri:0, instance:com.tp.vTigerTest.ContactTest@4c178a76]" started-at="2025-04-28T13:21:31 IST" name="toLogout" finished-at="2025-04-28T13:21:32 IST" duration-ms="841" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Logged out Successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- toLogout -->
+        <test-method is-config="true" signature="toLogin()[pri:0, instance:com.tp.vTigerTest.ContactTest@4c178a76]" started-at="2025-04-28T13:21:32 IST" name="toLogin" finished-at="2025-04-28T13:21:33 IST" duration-ms="1505" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Logged In Successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- toLogin -->
+        <test-method signature="createContactWithOrganizationTest()[pri:0, instance:com.tp.vTigerTest.ContactTest@4c178a76]" started-at="2025-04-28T13:21:33 IST" name="createContactWithOrganizationTest" finished-at="2025-04-28T13:21:44 IST" duration-ms="10451" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[[ CON4 ] gows_905 - Contact Information verified]]>
+            </line>
+            <line>
+              <![CDATA[  gows_905 verified]]>
+            </line>
+            <line>
+              <![CDATA[ Tek_Pyramid_195 verified]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- createContactWithOrganizationTest -->
+        <test-method is-config="true" signature="toLogout()[pri:0, instance:com.tp.vTigerTest.ContactTest@4c178a76]" started-at="2025-04-28T13:21:44 IST" name="toLogout" finished-at="2025-04-28T13:21:45 IST" duration-ms="785" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Logged out Successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- toLogout -->
+        <test-method is-config="true" signature="toLogin()[pri:0, instance:com.tp.vTigerTest.ContactTest@4c178a76]" started-at="2025-04-28T13:21:45 IST" name="toLogin" finished-at="2025-04-28T13:21:46 IST" duration-ms="1412" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Logged In Successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- toLogin -->
+        <test-method signature="createContactWithSupportDateTest()[pri:0, instance:com.tp.vTigerTest.ContactTest@4c178a76]" started-at="2025-04-28T13:21:46 IST" name="createContactWithSupportDateTest" finished-at="2025-04-28T13:21:50 IST" duration-ms="4580" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[[ CON5 ] gows_740 - Contact Information verified]]>
+            </line>
+            <line>
+              <![CDATA[  gows_740 verified]]>
+            </line>
+            <line>
+              <![CDATA[2025-04-28 verified]]>
+            </line>
+            <line>
+              <![CDATA[2025-06-27 verified]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- createContactWithSupportDateTest -->
+        <test-method is-config="true" signature="toLogout()[pri:0, instance:com.tp.vTigerTest.ContactTest@4c178a76]" started-at="2025-04-28T13:21:51 IST" name="toLogout" finished-at="2025-04-28T13:21:51 IST" duration-ms="774" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Logged out Successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- toLogout -->
+        <test-method is-config="true" signature="toClose()[pri:0, instance:com.tp.vTigerTest.ContactTest@4c178a76]" started-at="2025-04-28T13:21:51 IST" name="toClose" finished-at="2025-04-28T13:21:52 IST" duration-ms="1221" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Browser got Closed Successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- toClose -->
+      </class> <!-- com.tp.vTigerTest.ContactTest -->
+      <class name="com.tp.vTigerTest.VendorTest">
+        <test-method is-config="true" signature="toLaunch(java.lang.String)[pri:0, instance:com.tp.vTigerTest.VendorTest@65e98b1c]" started-at="2025-04-28T13:19:42 IST" name="toLaunch" finished-at="2025-04-28T13:19:46 IST" duration-ms="3728" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[edge]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Browser got launched]]>
+            </line>
+            <line>
+              <![CDATA[Browser got Maximized]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- toLaunch -->
+        <test-method is-config="true" signature="toLogin()[pri:0, instance:com.tp.vTigerTest.VendorTest@65e98b1c]" started-at="2025-04-28T13:19:46 IST" name="toLogin" finished-at="2025-04-28T13:19:57 IST" duration-ms="11066" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Logged In Successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- toLogin -->
+        <test-method signature="createVendorTest()[pri:0, instance:com.tp.vTigerTest.VendorTest@65e98b1c]" started-at="2025-04-28T13:19:57 IST" name="createVendorTest" finished-at="2025-04-28T13:20:18 IST" duration-ms="21473" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[[ VEN2 ] Microsoft514 - Vendor Information verified]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- createVendorTest -->
+        <test-method is-config="true" signature="toLogout()[pri:0, instance:com.tp.vTigerTest.VendorTest@65e98b1c]" started-at="2025-04-28T13:20:18 IST" name="toLogout" finished-at="2025-04-28T13:20:20 IST" duration-ms="1281" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Logged out Successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- toLogout -->
+        <test-method is-config="true" signature="toClose()[pri:0, instance:com.tp.vTigerTest.VendorTest@65e98b1c]" started-at="2025-04-28T13:20:20 IST" name="toClose" finished-at="2025-04-28T13:20:21 IST" duration-ms="1260" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Browser got Closed Successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- toClose -->
+      </class> <!-- com.tp.vTigerTest.VendorTest -->
+      <class name="com.tp.vTigerTest.LeadTest">
+        <test-method is-config="true" signature="toLaunch(java.lang.String)[pri:0, instance:com.tp.vTigerTest.LeadTest@fa4c865]" started-at="2025-04-28T13:21:52 IST" name="toLaunch" finished-at="2025-04-28T13:21:53 IST" duration-ms="874" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[edge]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Browser got launched]]>
+            </line>
+            <line>
+              <![CDATA[Browser got Maximized]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- toLaunch -->
+        <test-method is-config="true" signature="toLogin()[pri:0, instance:com.tp.vTigerTest.LeadTest@fa4c865]" started-at="2025-04-28T13:21:53 IST" name="toLogin" finished-at="2025-04-28T13:21:55 IST" duration-ms="1834" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Logged In Successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- toLogin -->
+        <test-method signature="createLeadTest()[pri:0, instance:com.tp.vTigerTest.LeadTest@fa4c865]" started-at="2025-04-28T13:21:55 IST" name="createLeadTest" finished-at="2025-04-28T13:22:00 IST" duration-ms="4404" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[[ LEA2 ] lead641 - Lead Information verified]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- createLeadTest -->
+        <test-method is-config="true" signature="toLogout()[pri:0, instance:com.tp.vTigerTest.LeadTest@fa4c865]" started-at="2025-04-28T13:22:00 IST" name="toLogout" finished-at="2025-04-28T13:22:00 IST" duration-ms="779" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Logged out Successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- toLogout -->
+        <test-method is-config="true" signature="toLogin()[pri:0, instance:com.tp.vTigerTest.LeadTest@fa4c865]" started-at="2025-04-28T13:22:00 IST" name="toLogin" finished-at="2025-04-28T13:22:02 IST" duration-ms="1412" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Logged In Successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- toLogin -->
+        <test-method signature="createLeadWithLeadSourceAndIndustryTest()[pri:0, instance:com.tp.vTigerTest.LeadTest@fa4c865]" started-at="2025-04-28T13:22:02 IST" name="createLeadWithLeadSourceAndIndustryTest" finished-at="2025-04-28T13:22:06 IST" duration-ms="4329" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createLeadWithLeadSourceAndIndustryTest -->
+        <test-method is-config="true" signature="toLogout()[pri:0, instance:com.tp.vTigerTest.LeadTest@fa4c865]" started-at="2025-04-28T13:22:06 IST" name="toLogout" finished-at="2025-04-28T13:22:07 IST" duration-ms="757" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Logged out Successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- toLogout -->
+        <test-method is-config="true" signature="toClose()[pri:0, instance:com.tp.vTigerTest.LeadTest@fa4c865]" started-at="2025-04-28T13:22:07 IST" name="toClose" finished-at="2025-04-28T13:22:08 IST" duration-ms="1209" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Browser got Closed Successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- toClose -->
+      </class> <!-- com.tp.vTigerTest.LeadTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
